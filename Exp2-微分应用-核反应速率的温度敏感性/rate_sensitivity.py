@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# 设置字体为黑体
+plt.rcParams['font.family'] = 'SimHei'
 
 def q3a(T):
     """
